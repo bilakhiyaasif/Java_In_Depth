@@ -1,4 +1,3 @@
-# Java_In_Depth
-## Basic to Intermediate
-## Intermediate to Advanced
-### Java :its My Learning time Program that i sovle and share with open source community
+# Java 
+## All_About_Java
+## This is my Java Code from Basic to Intermediate
