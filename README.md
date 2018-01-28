@@ -1,3 +1,3 @@
-# HackerRank
-My Solution and Algorithm on HackerRank programming Contest
-Access and learn new things
+# Java_In_Depth
+## Basic to Intermediate
+## Intermediate to Advanced
